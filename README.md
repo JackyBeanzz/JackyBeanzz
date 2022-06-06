@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jack
+- 👀 I’m interested in Gaming/Anime/Coding
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me jackyybeanzz@gmail.com
